@@ -6,6 +6,13 @@ Esta es una aplicación móvil desarrollada en React Native que utiliza TensorFl
 - Clasificación de objetos en las imágenes seleccionadas utilizando el modelo MobileNet.
 - Visualización del nombre del objeto detectado junto con su probabilidad.
 
+## Demostración
+
+
+https://github.com/Llaniz17/RN-Object-Classification/assets/87396322/4d43fa37-fc99-4b2a-b757-42593ace8bcd
+
+
+
 ## Instalación
 Para instalar las dependencias necesarias, ejecuta el siguiente comando en tu terminal dentro del directorio del proyecto:
 
