@@ -2,6 +2,14 @@
   "expo": {
     "name": "RN-Object-Classification",
     "slug": "RN-Object-Classification",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to run them through object detection"
+        }
+      ]
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
